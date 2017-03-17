@@ -1,0 +1,6 @@
+{
+  "name": "pk-clock",
+  "version": "5.2.1",
+  "description": "clock plugin",
+  "main": "index.js"
+}
